@@ -1,0 +1,161 @@
+.BookBtn{
+    border-radius: 20px;
+    height: auto;
+    width: auto;
+}
+.TEXT{
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 1;
+}
+.FONT{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-img-top{
+    width:100px;
+    height: 100px;
+    margin: auto;  
+    background-color: white;   
+    margin-top: 5%;
+    border-radius: 15px;
+
+}
+ .card:hover{
+   background-color: #8ac43d;
+}
+.card{
+    box-shadow: 10px 10px 10px 10px rgba(64, 70, 71, 0.129);
+    border: none;
+    padding: 20px;
+}
+.ABOUTBTN{
+    border: solid #8ac43d;
+    background-color: #8ac43d;
+    border-radius: 20px;
+    width: 160px;
+    font-weight: bold;
+    color: white;
+    margin-top: 15px;
+}
+.ABOUTBTN:hover{
+    border: solid 1px #8ac43d;
+    background-color: aliceblue;
+    color: #8ac43d;
+}
+.OURCAREBTN{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: solid 1px #8ac43d;
+    background-color: #8ac43d;
+    color: white;
+}
+.OURCAREBTN:hover{
+    background-color: white;
+    border: solid 1px #8ac43d;
+    color: #8ac43d;    
+}
+.Counting-number{
+    border: solid 1px;
+    padding-left: 10%;
+    border-left: 0px;
+    border-right: 0px;
+    margin-bottom: 10px;
+}
+.count-box{
+    font-size: 35px;
+    font-weight: bold;
+    color: #662d91;
+}
+.Text-count{
+    font-weight: 120;
+}
+
+.QUOTE {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px #00000012;
+}
+
+.NAME h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.NAME p {
+    font-size: 1rem;
+    color: gray;
+}
+.LATESTCARD{
+    width: 100%;
+    height: 100%;
+}
+.BTNCOLOR{
+    border: solid 0.5px #662d91;
+    border-radius: 20px;
+    font-weight: bold;
+    color: #662d91;
+}
+.BTNCOLOR:hover{
+     background-color: #662d91;
+     color: white;
+}
+
+.LEARNMOREBTN{
+    border: solid 1px #662d91;
+
+    border-radius: 20px;
+    color: #662d91;
+    font-weight: bold;
+}
+.LEARNMOREBTN:hover{
+    color: aliceblue;
+    background-color: #662d91;
+}
+.CARDLATESTPOST{
+    /* border: solid 1px; */
+    /* width: auto; */
+    height: 380px;
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px #4b474e42;
+    border-radius: 20px;
+}
+.CARDLATESTPOST img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 20px 20px 0 0; 
+    object-fit: cover;
+}
+.FOOTERCOlOR{
+    color: rgba(0, 0, 0, 0.549);
+}
+.FOOTERCOlOR:hover{
+    color: #8ac43d;
+}
+.navigationbar{
+     display: flex;
+     justify-content: center;
+     gap: 15px;
+}
+.navigationbar li{
+    list-style: none;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.638);
+}
+.navigatiobarBtn{
+    border-radius: 25px;
+    padding: 10px;
+    border: 0.5px solid #662d91;
+    color:#662d91;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: white;
+}
+.navigatiobarBtn:hover{
+    color: white;
+     background-color: #662d91;
+}
+.navigationbar li:hover{
+    color: #8ac43d;
+}
